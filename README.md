@@ -1,5 +1,6 @@
-
+```php
 <?php
+
 namespace AshBaker;
 
 class About extends Me
@@ -19,10 +20,12 @@ class About extends Me
         return [
             Php::class,
             Javascript::class,
-            CSS::class,
-            Python::class,
-            PHP::class,
-            Wordpress::class,
+            Laravel::class,
+            Vuejs::class,
+            Angular::class,
+            ReactNative::class,
+            TailwindCss::class,
+            Aws::class,
         ];
     }
 
@@ -31,4 +34,4 @@ class About extends Me
         return 'To contribute to open source.';
     }
 }
-
+```

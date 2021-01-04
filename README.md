@@ -23,21 +23,10 @@ I'm **Ian Clemence**, a **Software Engineering student** 🚀 from Nairobi, Keny
 - 🤔 My interests are web-automation, art and designing some useful and cool stuff xD
 - 💼 I’m a self-taught Web Developer.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [zamran.butt.1@gmail.com](mailto:ianclemence17@gmail.com).
+- 📫 Contact me via my [Email](mailto:ianclemence17@gmail.com).
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
 
 
-**Languages and Tools:**  
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ianclemencexD&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Ian's GitHub Stats">
 

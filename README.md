@@ -1,11 +1,34 @@
-### Hello Geeks 👋🏾  Welcome to my Github! I like to write in Python and I'm exploring Cloud Computing ☁️
 
-<p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-</p>
+<?php
+namespace AshBaker;
 
-<p align="center">
-Check out my repos ⬇️  
-</p>
+class About extends Me
+{
+    public function getCurrentWorkplace()
+    {
+        return [
+            'workplace' => [
+                'company' => 'MEA Mobile',
+                'position' => 'Full Stack Developer'         
+            ]
+        ];
+    }
 
-![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
+    public function getDailyKnowledge()
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            CSS::class,
+            Python::class,
+            PHP::class,
+            Wordpress::class,
+        ];
+    }
+
+    public function getFutureGoal()
+    {
+        return 'To contribute to open source.';
+    }
+}
+

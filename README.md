@@ -1,7 +1,7 @@
 ```php
 <?php
 
-namespace AshBaker;
+namespace Ian Clemence;
 
 class About extends Me
 {
@@ -9,8 +9,8 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'MEA Mobile',
-                'position' => 'Full Stack Developer'         
+                'company' => 'KCMC Hospital',
+                'position' => 'Web Developer'         
             ]
         ];
     }
@@ -20,11 +20,11 @@ class About extends Me
         return [
             Php::class,
             Javascript::class,
+            Python::class,
+            SQL::class,
             Laravel::class,
-            Vuejs::class,
-            Angular::class,
-            ReactNative::class,
-            TailwindCss::class,
+            CSS::class,
+            HTML::class,
             Aws::class,
         ];
     }

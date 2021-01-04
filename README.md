@@ -21,10 +21,10 @@ class About extends Me
             Php::class,
             Javascript::class,
             Python::class,
-            SQL::class,
+            Sql::class,
             Laravel::class,
-            CSS::class,
-            HTML::class,
+            Css::class,
+            Html::class,
             Aws::class,
         ];
     }

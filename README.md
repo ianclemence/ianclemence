@@ -24,8 +24,4 @@ I'm **Ian Clemence**, a **Software Engineering student** 🚀 from Nairobi, Keny
 - 💼 I’m a self-taught Web Developer.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Contact me via my [Email](mailto:ianclemence17@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=ianclemencexD&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Ian's GitHub Stats">

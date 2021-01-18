@@ -19,13 +19,13 @@ class About extends Me
     {
         return [
             Php::class,
-            Javascript::self,
-            Python::self,
+            Javascript::class,
+            Python::class,
             Sql::class,
-            Laravel::self,
+            Laravel::class,
             Css::class,
             Html::class,
-            Aws::self,
+            Wix::class,
         ];
     }
 

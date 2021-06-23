@@ -22,6 +22,7 @@ class About extends Me
             Javascript::class,
             Python::class,
             Sql::class,
+            Node::class,
             Laravel::class,
             React::class,
             CodeIgniter::class,

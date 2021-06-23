@@ -23,8 +23,7 @@ class About extends Me
             Python::class,
             Sql::class,
             Laravel::class,
-            Css::class,
-            Html::class,
+            React::class,
             CodeIgniter::class,
         ];
     }

@@ -25,7 +25,7 @@ class About extends Me
             Laravel::class,
             Css::class,
             Html::class,
-            Wix::class,
+            CodeIgniter::class,
         ];
     }
 

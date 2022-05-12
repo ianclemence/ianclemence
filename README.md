@@ -7,7 +7,7 @@
 
 ### 🏌🏾‍♂️ About Me :
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tanzania.
-- :telescope: I’m currently working as a Web 3.0 Developer and contributing to backend development of Laravel Web applications.
+- :telescope: I’m currently working as a Software Developer and contributing to backend development of Web 3.0 applications.
 
 - :seedling: My favourite part about my job is pitching unique development ideas that help businesses stand out from competitors.
 

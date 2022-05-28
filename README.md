@@ -5,6 +5,8 @@
   </h1>
 </div>
 
+<a href="https://app.daily.dev/ianclemence"><img src="https://api.daily.dev/devcards/f1228afce7eb400db7d46b644441c71b.png?r=fd0" width="400" alt="Ian Clemence's Dev Card"/></a>
+
 ### 🏌🏾‍♂️ About Me :
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tanzania.
 - :telescope: I’m currently working as a Software Developer and contributing to backend development of Web 3.0 applications.
